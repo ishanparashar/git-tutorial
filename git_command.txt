@@ -1,3 +1,4 @@
+This is some command for git
 Cmd 1 : git checkout filename ( files changes revert to last commit )
 For all files : git checkout -f
 
