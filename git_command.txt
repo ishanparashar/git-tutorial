@@ -1,5 +1,5 @@
 This is some command for git
-hello 
+send this to git 
 Cmd 1 : git checkout filename ( files changes revert to last commit )
 For all files : git checkout -f
 
