@@ -1,4 +1,4 @@
-aaasaThis is some command for git hahah
+aaasaThis is some command for git hahah4tt5
 send this to local
 Cmd 1 : git checkout filename ( files changes revert to last commit )
 For all files : git checkout -f
